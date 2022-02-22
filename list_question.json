@@ -1,55 +1,94 @@
-[
-  {
-    "id": 0,
-    "question": "Berapa hasil dari 1+2?",
-    "type": "multipleanswer",
-    "answers": [
-      {
-        "id": 1,
-        "text": 0
-      },
-      {
-        "id": 2,
-        "text": 3
-      },
-      {
-        "id": 3,
-        "text": 5
-      },
-      {
-        "id": 4,
-        "text": 7
-      }
-    ]
-  },
-  {
-    "id": 2,
-    "question": "Apa nama ibu kota Indonesia?",
-    "type": "multipleanswer",
-    "answers": [
-      {
-        "id": 1,
-        "text": "Jakarta"
-      },
-      {
-        "id": 2,
-        "text": "Surabaya"
-      },
-      {
-        "id": 3,
-        "text": "Solo"
-      },
-      {
-        "id": 4,
-        "text": "Bali"
-      }
-    ]
-  },
-  {
-    "id": 3,
-    "question": "Apakah gambar di atas adalah kucing?",
-    "image": "https://th.bing.com/th/id/OIP.548CHqyNRUC6aBjnZ--tMgHaEK?pid=ImgDet&rs=1",
-    "type": "yesorno",
-    "answers": []
-  }
-]
+{
+  "success": true,
+  "data": [
+    {
+      "page": 1,
+      "questions": [
+        [
+          {
+            "id": 0,
+            "question": "Apakah hasil 1+2 = 3?",
+            "answers": [
+              {
+                "id": 1,
+                "text": "Benar"
+              },
+              {
+                "id": 2,
+                "text": "Salah"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "question": "Apakah Anda pernah makan?",
+            "answers": [
+              {
+                "id": 1,
+                "text": "Pernah"
+              },
+              {
+                "id": 2,
+                "text": "Tidak Pernah"
+              }
+            ]
+          },
+          {
+            "id": 0,
+            "question": "Jangkrik bernafas menggunakan trakea.",
+            "answers": [
+              {
+                "id": 1,
+                "text": "Benar"
+              },
+              {
+                "id": 2,
+                "text": "Salah"
+              }
+            ]
+          },
+          {
+            "id": 0,
+            "question": "Makhluk hidup bergerak?",
+            "answers": [
+              {
+                "id": 1,
+                "text": "Ya"
+              },
+              {
+                "id": 2,
+                "text": "Tidak"
+              }
+            ]
+          },
+          {
+            "id": 0,
+            "question": "Indonesia merdeka tahun 1945?",
+            "answers": [
+              {
+                "id": 1,
+                "text": "Benar"
+              },
+              {
+                "id": 2,
+                "text": "Salah"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "page": 2,
+      "quiestions": [
+        {
+          "id": 3,
+          "question": "Apakah gambar di atas adalah kucing?",
+          "image": "https://th.bing.com/th/id/OIP.548CHqyNRUC6aBjnZ--tMgHaEK?pid=ImgDet&rs=1",
+          "answers": []
+        }
+      ]
+    }
+  ],
+  "message": "Berhasil mengambil data!"
+}
