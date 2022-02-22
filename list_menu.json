@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "data": [
+    {
+      "slug": "kenali-diri",
+      "title": "Kenali Diri Lebih Dalam",
+      "color": "#df3b57",
+      "icons": ""
+    },
+    {
+      "slug": "kenali-minat",
+      "title": "Kenali Minat",
+      "color": "#ee4b6a",
+      "icons": ""
+    },
+    {
+      "slug": "temukan-bakat",
+      "title": "Temukan Bakat",
+      "color": "#ef8354",
+      "icons": ""
+    },
+    {
+      "slug": "tentukan-karir",
+      "title": "Tentukan Karir dan Jurusan",
+      "color": "#d8a47f",
+      "icons": ""
+    }
+  ],
+  "message": "Berhasil menampilkan data!"
+}
