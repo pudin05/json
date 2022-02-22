@@ -85,7 +85,16 @@
           "id": 3,
           "question": "Apakah gambar di atas adalah kucing?",
           "image": "https://th.bing.com/th/id/OIP.548CHqyNRUC6aBjnZ--tMgHaEK?pid=ImgDet&rs=1",
-          "answers": []
+          "answers": [
+            {
+              "id": 1,
+              "text": "Benar"
+            },
+            {
+              "id": 2,
+              "text": "Salah"
+            }
+          ]
         }
       ]
     }
