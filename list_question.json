@@ -1,0 +1,55 @@
+[
+  {
+    "id": 0,
+    "question": "Berapa hasil dari 1+2?",
+    "type": "multipleanswer",
+    "answers": [
+      {
+        "id": 1,
+        "text": 0
+      },
+      {
+        "id": 2,
+        "text": 3
+      },
+      {
+        "id": 3,
+        "text": 5
+      },
+      {
+        "id": 4,
+        "text": 7
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Apa nama ibu kota Indonesia?",
+    "type": "multipleanswer",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Jakarta"
+      },
+      {
+        "id": 2,
+        "text": "Surabaya"
+      },
+      {
+        "id": 3,
+        "text": "Solo"
+      },
+      {
+        "id": 4,
+        "text": "Bali"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Apakah gambar di atas adalah kucing?",
+    "image": "https://th.bing.com/th/id/OIP.548CHqyNRUC6aBjnZ--tMgHaEK?pid=ImgDet&rs=1",
+    "type": "yesorno",
+    "answers": []
+  }
+]
