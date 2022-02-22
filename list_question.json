@@ -3,8 +3,7 @@
   "data": [
     {
       "page": 1,
-      "questions": {
-        [
+      "questions": [
           {
             "id": 0,
             "question": "Apakah hasil 1+2 = 3?",
@@ -76,7 +75,6 @@
             ]
           }
         ]
-      }
     },
     {
       "page": 2,
